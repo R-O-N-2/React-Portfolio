@@ -7,7 +7,7 @@ export default function Nav (){
             <Link to="/">HOME</Link>
             <Link to="/About">ABOUT ME</Link>
             <Link to="/Projects">PROJECTS</Link>
-            <Link to="https://drive.google.com/file/d/1jPhyX_ATJ-0bPWRawRKtTHZMO_WJ00Un/view?usp=sharing" target="_blank">RESUMÉ</Link>
+            <Link to="https://docs.google.com/document/d/1pZ93GhmAp5H9ehlmNsn64XOboGeOIDlFU-bLJrsaU6M/edit?usp=sharing" target="_blank">RESUMÉ</Link>
             <Link to="/Contact">CONTACT ME</Link>
 
         </div>

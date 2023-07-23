@@ -1,4 +1,5 @@
 import my_img from "../assets/ron.jpeg"
+
 const Home = () => {
     return (
     <div className="home">
