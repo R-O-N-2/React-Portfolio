@@ -1,0 +1,86 @@
+#root {
+  max-width: 1280px;
+  min-height: 70vh;
+  margin: 85px auto;
+  padding: 2rem;
+  color: black;
+  text-align: left;
+  background-color: rgb(255, 218, 185, .6);
+  border-radius: 20px; 
+  background-size: cover;
+  background-position: center;
+}
+
+a {
+  font-weight: 500 bold;
+  color: #535bf2;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #db1b8b;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1561571994-3c61c554181a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZnVsbCUyMHNjcmVlbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+  background-size: 100%
+}
+
+header {
+  padding: 0 0 50px 0;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.myFamily {
+  padding: 20px;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.projectHeader {
+  text-align: center;
+}
+
+.projectFooter {
+  text-align: center;
+}
+
+.contactHeader {
+  text-align: center;
+  padding: 75px;
+}
+
+.name {
+  text-decoration: none;
+}
+
+li.aboutMe {
+  list-style: none;
+  margin: 0 70px 0 70px;
+  text-align: left;
+}
+
+li.contactLink {
+  list-style: none;
+}
+
+.me {
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+p.aboutText {
+  text-indent: 35px;
+}
+
+
