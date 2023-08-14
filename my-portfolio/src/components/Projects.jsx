@@ -8,7 +8,7 @@ const Projects = () => {
         <li>
             <p>  
                 <h3><a href="https://projectwrx.netlify.app/" target="_blank">Project WRX</a></h3>
-                Project WRX is designed to help organize team oriented projects, and tasks. Using front end components and modals: users are allowed to create an account as well as a team, or teams; that include multiple users. Within "teams", users can work with "projects" that house "tasks" for that specific project and it's assigned users. CRUD functionality on the front end allows for users, projects, and tasks to be created, updated, and deleted. Controllers encapsulate the backend CRUD and Models are used as abstract objects that are also polymorphic and inherit properties from input on the front end.
+                Project WRX is designed to help organize team oriented projects and tasks. Using front end components and modals: users are allowed to create an account as well as a team, or teams that include multiple users. Within "teams", users can work with "projects" that house "tasks" for that specific project and it's assigned users. CRUD functionality on the front end allows for users, projects, and tasks to be created, updated, and deleted. Controllers encapsulate the backend CRUD and Models are used as abstract objects that are also polymorphic and inherit properties from input on the front end.
             </p> 
         </li>
 
